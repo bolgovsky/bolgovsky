@@ -10,7 +10,7 @@
   
   <br>
   
-  <div id="badges">
+ <div id="badges">
   <a href="https://www.facebook.com/b0lg0v">
     <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook Badge"/>
   </a>
@@ -24,8 +24,9 @@
   <img src="https://komarev.com/ghpvc/?username=bolgovsky&style=flat-square&color=blue" alt=""/>
  <br>
 
-</div>
+ </div>
 
+</div>
 
 ### Мой стек
 
@@ -46,9 +47,9 @@
 
 ### Вот, что я умею
 
-- [Дипломный проект DevOps](https://github.com/bolgovsky/DevOps-diplom/blob/main/README.md)
+- [Дипломный проект DevOps(YandexCloud)](https://github.com/bolgovsky/DevOps-diplom/blob/main/README.md)
 
-- [Ansible-roles]()
+- [Ansible-roles(clickhouse-vector-lighthouse)](https://github.com/bolgovsky/ansible-roles/blob/main/README.md)
 
 <!--
 
