@@ -17,7 +17,7 @@
   <a href="https://twitter.com/b0lg0v">
     <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter Badge"/>
   </a>
-  <a href="https://twitter.com/b0lg0v">
+  <a href="https://vk.com/b0lg0v">
     <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="vk Badge"/>
   </a>
  <br>
@@ -66,7 +66,7 @@
 ### Сертификаты 
 
 - [DevOps-инженер Нетология](https://github.com/bolgovsky/bolgovsky/blob/main/certificate.pdf) -> см. [описание курса](https://netology.ru/programs/devops)
-- [20764-Администрирование инфраструктуры БД SQL]()
+- [20764-Администрирование инфраструктуры БД SQL](https://github.com/bolgovsky/bolgovsky/blob/main/MSSoftlineCert.pdf)  -> см. [описание курса](https://edu.softline.com/media/uploads/course_program/20764%20B.pdf)
 
 <!--
 - Python https://github.com/mikepro-alfamail-ru/mikepro-alfamail-ru/blob/main/python.pdf
