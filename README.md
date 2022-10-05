@@ -47,11 +47,12 @@
 
 ### Вот, что я умею
 
-- [Дипломный проект DevOps(YandexCloud)](https://github.com/bolgovsky/DevOps-diplom/blob/main/README.md)
-
-- [Ansible-roles(clickhouse-vector-lighthouse)](https://github.com/bolgovsky/ansible-roles/blob/main/README.md)
+- [Дипломный проект DevOps (YandexCloud)](https://github.com/bolgovsky/DevOps-diplom/blob/main/README.md)
+- [Ansible-roles (clickhouse-vector-lighthouse)](https://github.com/bolgovsky/ansible-roles/blob/main/README.md)
+- [Hashicorp vault](https://github.com/bolgovsky/dev-netology/tree/main/course-work)
 
 <!--
+< [strace-bash](https://github.com/bolgovsky/dev-netology/blob/main/3.3.OS/readme.md)
 
 - Ansible-roles. []()
 
@@ -62,9 +63,10 @@
 - SQL (postgres, mysql) . []() -->
 
 
-### Сертификаты Нетологии
+### Сертификаты 
 
-- [DevOps-инженер](https://github.com/bolgovsky/bolgovsky/blob/main/certificate.pdf) -> см. [описание курса](https://netology.ru/programs/devops)
+- [DevOps-инженер Нетология](https://github.com/bolgovsky/bolgovsky/blob/main/certificate.pdf) -> см. [описание курса](https://netology.ru/programs/devops)
+- [20764-Администрирование инфраструктуры БД SQL]()
 
 <!--
 - Python https://github.com/mikepro-alfamail-ru/mikepro-alfamail-ru/blob/main/python.pdf
