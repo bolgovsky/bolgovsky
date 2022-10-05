@@ -1,6 +1,16 @@
 <div id="header" align="center">
+  
+  <h1>
+    hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    i'am Denis
+  </h1>
+  
   <img width="25%" src=https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif  >
-<div id="badges">
+  
+  <br>
+  
+  <div id="badges">
   <a href="https://www.facebook.com/b0lg0v">
     <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook Badge"/>
   </a>
@@ -10,10 +20,12 @@
   <a href="https://twitter.com/b0lg0v">
     <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="vk Badge"/>
   </a>
-  hey there
+ <br>
+  <img src="https://komarev.com/ghpvc/?username=bolgovsky&style=flat-square&color=blue" alt=""/>
+ <br>
+
 </div>
 
-Меня зовут <b>Болгов Денис</b> и я DevOps-инженер.
 
 ### Мой стек
 
