@@ -4,30 +4,18 @@
 
 ### Мой стек
 
-*Средства автоматизации: powershell, bat, bash, python, ansible, terraform, packer
-
-*Операционные системы: linux(ubuntu,centos), windows(server 2012-2019)
-
-*СУБД: postgresql, mssql, mysql
-
-*Гипервизоры: hyper-v, esxi
-
-*Мониторинг: zabbix, grafana, prometheus
-
-*Системы контроля версий: git
-
-*Методологии: agile
-
-*Инструментарий CI/CD: gitlab
-
-*Контейнеризация: docker, podman
-
-*Облачные провайдеры: yandex.cloud
-
-*Управление задачами: jira, manageengine servicedesk
-
-*Глоссарий: confluence
-
+|  Средства автоматизации | powershell, bat, bash, python, ansible, terraform, packer  |      
+| Операционные системы  |  linux(ubuntu,centos), windows(server 2012-2019) |      
+| СУБД  | postgresql, mssql, mysql   |  
+| Гипервизоры  | hyper-v, esxi  |  
+|  Мониторинг | zabbix, grafana, prometheus  |  
+|  Системы контроля версий | git  |  
+|  Методологии | basic, agile, scrum  |  
+|  Инструментарий CI/CD | gitlab  |  
+| Контейнеризация  | docker, podman  |  
+|  Облачные провайдеры | yandex.cloud  |  
+| Управление задачами  | jira, manageengine(SD)  |  
+| Глоссарий  |  confluence |  
 
 ### Вот, что я умею
 
