@@ -71,10 +71,10 @@
 
 ---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=light&background=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bolgovsky&theme=light&background=ffffff)](https://git.io/streak-stats)
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bolgovsky)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bolgovsky)](https://github.com/bolgovsky/github-readme-stats)
 
 <!--
 - Python https://github.com/mikepro-alfamail-ru/mikepro-alfamail-ru/blob/main/python.pdf
