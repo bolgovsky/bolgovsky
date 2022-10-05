@@ -1,9 +1,11 @@
-### Привет!
+### Привет! 
 
 Меня зовут <b>Болгов Денис</b> и я DevOps-инженер.
 
 ### Мой стек
 
+|  Направление | Инструменты  |
+|---|---|
 |  Средства автоматизации | powershell, bat, bash, python, ansible, terraform, packer  |      
 | Операционные системы  |  linux(ubuntu,centos), windows(server 2012-2019) |      
 | СУБД  | postgresql, mssql, mysql   |  
