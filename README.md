@@ -68,22 +68,10 @@
 - [DevOps-инженер Нетология](https://github.com/bolgovsky/bolgovsky/blob/main/certificate.pdf) -> см. [описание курса](https://netology.ru/programs/devops)
 - [20764-Администрирование инфраструктуры БД SQL](https://github.com/bolgovsky/bolgovsky/blob/main/MSSoftlineCert.pdf)  -> см. [описание курса](https://edu.softline.com/media/uploads/course_program/20764%20B.pdf)
 
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bolgovsky&hide=go,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bolgovsky&theme=light&background=ffffff)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bolgovsky&theme=light&background=ffffff)](https://git.io/streak-stats)
 
-
-
-
-<!--
-- Python https://github.com/mikepro-alfamail-ru/mikepro-alfamail-ru/blob/main/python.pdf
-
-- Django https://github.com/mikepro-alfamail-ru/mikepro-alfamail-ru/blob/main/django.pdf
-
-- Python в web-разработке https://github.com/mikepro-alfamail-ru/mikepro-alfamail-ru/blob/main/pyweb.pdf
-
-- SQL и получение данных https://github.com/mikepro-alfamail-ru/mikepro-alfamail-ru/blob/main/sql.pdf
-
-- Python https://github.com/mikepro-alfamail-ru/mikepro-alfamail-ru/blob/main/pybasic.pdf
-
-- GIT https://github.com/mikepro-alfamail-ru/mikepro-alfamail-ru/blob/main/git.pdf -->
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bolgovsky&hide=go,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
