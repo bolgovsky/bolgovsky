@@ -5,16 +5,27 @@
 ### Мой стек
 
 *Средства автоматизации: powershell, bat, bash, python, ansible, terraform, packer
+
 *Операционные системы: linux(ubuntu,centos), windows(server 2012-2019)
+
 *СУБД: postgresql, mssql, mysql
+
 *Гипервизоры: hyper-v, esxi
+
 *Мониторинг: zabbix, grafana, prometheus
+
 *Системы контроля версий: git
+
 *Методологии: agile
+
 *Инструментарий CI/CD: gitlab
+
 *Контейнеризация: docker, podman
+
 *Облачные провайдеры: yandex.cloud
+
 *Управление задачами: jira, manageengine servicedesk
+
 *Глоссарий: confluence
 
 
@@ -35,6 +46,7 @@
 
 - DevOps-инженер 
 
+<!--
 - Python https://github.com/mikepro-alfamail-ru/mikepro-alfamail-ru/blob/main/python.pdf
 
 - Django https://github.com/mikepro-alfamail-ru/mikepro-alfamail-ru/blob/main/django.pdf
@@ -45,4 +57,4 @@
 
 - Python https://github.com/mikepro-alfamail-ru/mikepro-alfamail-ru/blob/main/pybasic.pdf
 
-- GIT https://github.com/mikepro-alfamail-ru/mikepro-alfamail-ru/blob/main/git.pdf
+- GIT https://github.com/mikepro-alfamail-ru/mikepro-alfamail-ru/blob/main/git.pdf -->
