@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img width="20%" src=https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif  >
+  <img width="25%" src=https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif  >
 <div id="badges">
   <a href="https://www.facebook.com/b0lg0v">
     <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook Badge"/>
@@ -33,7 +33,9 @@
 
 ### Вот, что я умею
 
-- Terraform. []()
+- [Дипломный проект DevOps](https://github.com/bolgovsky/DevOps-diplom/blob/main/README.md)
+
+- [Ansible-roles]()
 
 <!--
 
@@ -48,7 +50,7 @@
 
 ### Сертификаты Нетологии
 
-- [DevOps-инженер](https://github.com/bolgovsky/bolgovsky/blob/main/certificate.pdf) -> [описание курса](https://netology.ru/programs/devops)
+- [DevOps-инженер](https://github.com/bolgovsky/bolgovsky/blob/main/certificate.pdf) -> см. [описание курса](https://netology.ru/programs/devops)
 
 <!--
 - Python https://github.com/mikepro-alfamail-ru/mikepro-alfamail-ru/blob/main/python.pdf
