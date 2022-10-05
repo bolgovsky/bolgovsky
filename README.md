@@ -68,10 +68,10 @@
 - [DevOps-инженер Нетология](https://github.com/bolgovsky/bolgovsky/blob/main/certificate.pdf) -> см. [описание курса](https://netology.ru/programs/devops)
 - [20764-Администрирование инфраструктуры БД SQL](https://github.com/bolgovsky/bolgovsky/blob/main/MSSoftlineCert.pdf)  -> см. [описание курса](https://edu.softline.com/media/uploads/course_program/20764%20B.pdf)
 
----
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bolgovsky&theme=light&background=ffffff)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bolgovsky&hide=go,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bolgovsky&theme=light&background=ffffff)](https://git.io/streak-stats)
+
 
 
 
